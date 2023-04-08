@@ -120,7 +120,7 @@ cohesive and effective.
 <hr style="border:none; height:1px; background-color:gold; width:100%;">
 <br>
 <a href="https://www.bitsarabia.com" target="_blank">
-<img src="[https://www.bitsarabia.com/wp-content/uploads/2021/07/logo.webp](https://media.licdn.com/dms/image/C4D0BAQFhWPOTJSHKpQ/company-logo_200_200/0/1624527767165?e=1689206400&v=beta&t=1k_M1u0xf18I_ATlWqmi4nAJwe8W7Q8q82vWWMWnbmk)" alt="BitsArabia Solutions" style="height:50px;padding-bottom: 10px;"></a>
+<img src="https://pbs.twimg.com/profile_images/1086496926932045825/nZFbZsmL_400x400.jpg" alt="BitsArabia Solutions" style="height:200px;padding-bottom: 10px;"></a>
   <h1>BitsArabia Solutions</h1>
   <p>IT solutions company</p>
   <p>Created new styles, implemented changes, fixed bugs, added forms and much more. Actively working on monthly bases.</p>
