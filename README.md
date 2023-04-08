@@ -1,16 +1,15 @@
-
-<h1 style="position:sticky; text-align:center; font-size:40px; font-family: arial, Helvetica, sans-serif; background: linear-gradient(to right, purple, red, orange, yellow, brown); -webkit-text-fill-color: transparent; -webkit-background-clip: text;">Hi There! Nice to have you here. </h1>
+<h1 align="center">Hi there! Nice to have you around.</h1> 
 
 ![github_cover_banner](https://images.squarespace-cdn.com/content/v1/5b1d88f9cc8fedb159735210/1560302563940-G6FI5ZMFI1TGQ5JP947K/ThreeOfJune_Banner01.gif?format=2500w)
 
 <br>
-<h1 style="text-align:center; font-size:40px; font-family: arial, Helvetica, sans-serif; background: linear-gradient(to right, purple, red, orange, yellow, brown); -webkit-text-fill-color: transparent; -webkit-background-clip: text;">Something about me</h1>
+<h1 align="center">Something about me</h1>
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 18px;" >
+<p align:"center">
 As a self-taught full-stack developer, I
 am proficient in a variety of
 programming languages such as
-JavaScript, HTML, CSS, and Java, and
+JavaScript, HTML, CSS, Java, and
 am familiar with popular frameworks
 such as React, Angular, and Node.js.
 With experience in both front-end and
@@ -26,146 +25,301 @@ cohesive and effective.
 <br>
 <div align="center">
 
-[Contact Me, I am open to work!](mailto:drabic.andrija@gmail.com)
+[Contact me, I am open for work!](mailto:drabic.andrija@gmail.com)
+
 </div>
 </p>    
 <br>
-
-<h2 style="text-align:center; font-size:40px; font-family: arial, Helvetica, sans-serif; background: linear-gradient(to left, blue, purple); -webkit-text-fill-color: transparent; -webkit-background-clip: text;">Languages and Tools</h2>
-<br>
-<br>
-<hr style="border:none; height:1px; background-color:blue; width:100%;">
+<h2 align="center">Languages and Tools</h2>
 <br>
 <br>   
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img
+      src="https://docs.amplify.aws/assets/logo-dark.svg"
+      alt="amplify"
+      width="40"
+      height="40"
+    />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="TypeScript" height="100px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://angular.io/assets/images/logos/angular/angular.svg"
+      alt="angular"
+      width="40"
+      height="40"
+    />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img  alt="ReactJS" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
+      alt="angularjs"
+      width="40"
+      height="40"
+    />
   </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
+      alt="blender"
+      width="40"
+      height="40"
+    />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
   </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-      <img  alt="Sass" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="firebase" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="GoogleCloud" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img  alt="MongoDB" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img  alt="NPM" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+      alt="cypress"
+      width="40"
+      height="40"
+    />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img  alt="Docker" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      alt="docker"
+      width="40"
+      height="40"
+    />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="100px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express"
+      width="40"
+      height="40"
+    />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
+      width="40"
+      height="40"
+    />
   </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-      <img  alt="Canva" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+      alt="gcp"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      alt="nextjs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+      alt="photoshop"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+      alt="php"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"
+      alt="unreal"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+      alt="vuejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
+      alt="webpack"
+      width="40"
+      height="40"
+    />
   </a>
 </div>
 <br>
-<br>
-<hr style="border:none; height:1px; background-color:blue; width:100%;">
-<br>
-<br>
 <div align="center">
-<h1 style="text-align:center; font-size:40px; font-family: arial, Helvetica, sans-serif; background: linear-gradient(to right, purple, red, orange, yellow, brown); -webkit-text-fill-color: transparent; -webkit-background-clip: text;">Small showcase of the work I do</h1>
+<h1>Showcase of my work</h1>
 <div align="center" style="padding:5px;">
   <a href="https://www.dragonsoriginsnft.com" target="_blank">
     <img src="https://dragonsoriginsnft.com/wp-content/uploads/2022/05/logo2-1-300x300.png" alt="Dragons:OriginsNFT" style="height:200px;padding-bottom: 10px;">
     </a>
   <br>
-  <h1>Dragons:OriginsNFT</h1>
   <p>NFT Landing Page</p>
   <p>Start of my development career, and my "baby" project. Not so actively working on it since 2021. Created everything you see from visuals to NFTs. </p>
 <br>
-<hr style="border:none; height:1px; background-color:gold; width:100%;">  
-<br>
 <a href="https://www.andrija.website/dmmarketingagency" target="_blank">
 <img src="https://i0.wp.com/andrija.website/dmmarketingagency/wp-content/uploads/2023/03/DM-Marketing-Main-Logo-2400x1800-Croped.png?resize=350%2C90&ssl=1" alt="Marketing Agency" style="height:100px;padding-bottom: 10px;"></a>
-  <h1>MD Marketing Agency</h1>
   <p>Marketing agency webpage</p>
-  <p>Created web and branding for marketing agency with contact forms and automatic set up meeting option. </p>
-<br>
-<hr style="border:none; height:1px; background-color:gold; width:100%;">
+  <p>Created web and branding for a marketing agency with contact forms and an automatic set-up meeting option.</p>
 <br>
 <a href="https://www.bitsarabia.com" target="_blank">
-<img src="https://pbs.twimg.com/profile_images/1086496926932045825/nZFbZsmL_400x400.jpg" alt="BitsArabia Solutions" style="height:200px;padding-bottom: 10px;"></a>
-  <h1>BitsArabia Solutions</h1>
+<img src="https://dragonsoriginsnft.com/wp-content/uploads/2023/04/nZFbZsmL_400x400-removebg-preview.png" alt="BitsArabia Solutions" style="height:200px;padding-bottom: 10px;"></a>
   <p>IT solutions company</p>
-  <p>Created new styles, implemented changes, fixed bugs, added forms and much more. Actively working on monthly bases.</p>
-<br>
-<hr style="border:none; height:1px; background-color:gold; width:100%;">
-</div>
+  <p>Created new styles, implemented changes, fixed bugs, added forms, and much more. Actively working on monthly bases.</p>
 <br>
 <a href="https://www.bitsarabia.com/our-solutions/onetouch" target="_blank">
-<img src="https://www.bitsarabia.com/wp-content/uploads/2023/03/OneTouch-Logo.jpg" alt="One touch Solutions" style="height:200px;padding-bottom: 10px;"></a>
-  <h1>One Touch</h1>
+<img src="https://dragonsoriginsnft.com/wp-content/uploads/2023/04/OneTouch-Logo-removebg-preview.png" alt="One touch Solutions" style="height:200px;padding-bottom: 10px;"></a>
   <p>Solution from BitsArabia</p>
-  <p>Implemented ideas, created designs, created images, added buttons, contact forms and more. Also worked on two language implementation on the website.</p>
-<br>
-<hr style="border:none; height:1px; background-color:gold; width:100%;">
+  <p>Implemented ideas, created designs, created images, added buttons, contact forms, and more. Also worked on two language implementations on the website.</p>
 <br>
 <a href="https://www.sectware.com" target="_blank">
-<img src="https://media.licdn.com/dms/image/C560BAQENiGy_rYOHGQ/company-logo_200_200/0/1680035690621?e=1689206400&v=beta&t=-WjI6qJLFbx-Em9NXGKmVWuqL7KoOO1CkwGL15wshnM" alt="One touch Solutions" style="height:200px;padding-bottom: 10px;"></a>
-  <h1>Sectware</h1>
+<img src="https://dragonsoriginsnft.com/wp-content/uploads/2023/04/1680035690621-removebg-preview.png" alt="One touch Solutions" style="height:200px;padding-bottom: 10px;"></a>
   <p>Cybersecurity company</p>
-  <p>Co-created and worked on the project with another developer, coded, implemented, connected front-end and back-end elements, designed styles etc.</p>
-<br>
-<hr style="border:none; height:1px; background-color:gold; width:100%;">
+  <p>Co-created and worked on the project with another developer, coded, implemented, and connected front-end and back-end elements, designed styles, etc.</p>
 <br>
 <a href="https://andrija.website" target="_blank">
 <img src="https://i0.wp.com/andrija.website/wp-content/uploads/2023/03/cropped-LogoAndrija.png?resize=300%2C100&ssl=1" alt="Andrija Drabic" style="height:100;padding-bottom: 10px;"></a>
-  <h1>Andrija Drabic</h1>
   <p>Personal portfolio</p>
-  <p>Personal portfolio that showcases something about my life. Functionality of scheduling meetings and contacting me.</p>
+  <p>A personal portfolio that showcases something about my life. The functionality of scheduling meetings and contacting me.</p>
 <br>
-<hr style="border:none; height:1px; background-color:gold; width:100%;">
 </div>
-
-<h2 style="text-align:center; font-size:40px; font-family: arial, Helvetica, sans-serif; background: linear-gradient(to right, #F0FF42, #82CD47, #54B435, #379237); -webkit-text-fill-color: transparent; -webkit-background-clip: text;">I also love to freelance!</h2>
-
-<div style="text-align: center;">
+<h2 align="center">I also love freelancing!</h2>
+<div align="center" style="text-align: center;">
   <div style="display: inline-block;padding-right:10px;">
     <img src="https://assets-global.website-files.com/603fea6471d9d8559d077603/60e5a74547878c8b5a58cb0d_wordmark%20(1).png" style="height:100px;">
     <p style="text-align: center;">Work with me on <a href="https://www.upwork.com/freelancers/drabic" target="_blank"><span style="color: green;">UpWork</span></a>.</p>
   </div>
-  <div style="display: inline-block;padding-left:10px;">
+  <div align="center" style="display: inline-block;padding-left:10px;">
     <img src="https://app.userfeel.com/tester/536780/image?.png" style="height:100px">
-    <p style="text-align: center;">Work with me on <a href="https://app.userfeel.com/t/2f69a13c" target="_blank"><span style="color: red;"><strong>User</strong>Feel</p></a>
+    <p style="text-align: center;">Work with me on <a href="https://app.userfeel.com/t/2f69a13c" target="_blank"><span style="color: red;">UserFeel</a>.</p>
   </div>
 </div>
 <br>
 <hr style="border:none; height:1px; background-color:purple; width:100%;">
-<h1 style="text-align:center; font-size:40px; font-family: arial, Helvetica, sans-serif; background: linear-gradient(to left, #1A120B, #3C2A21, #D5CEA3, #E5E5CB, #1A120B, #3C2A21); -webkit-text-fill-color: transparent; -webkit-background-clip: text;">Lastly I would like to tank you for reading and remember, we are all MAD in here. </h1>
+<h1 align="center">Thanks for stopping by, and remember "we are all little mad here". </h1>
 
