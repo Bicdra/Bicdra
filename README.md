@@ -311,11 +311,13 @@ cohesive and effective.
 <h2 align="center">I also love freelancing!</h2>
 <div align="center" style="text-align: center;">
   <div style="display: inline-block;padding-right:10px;">
-    <img src="https://assets-global.website-files.com/603fea6471d9d8559d077603/60e5a74547878c8b5a58cb0d_wordmark%20(1).png" style="height:100px;">
+    <a href="https://www.upwork.com/freelancers/drabic" target="_blank">
+    <img src="https://assets-global.website-files.com/603fea6471d9d8559d077603/60e5a74547878c8b5a58cb0d_wordmark%20(1).png" style="height:100px;"></a>
     <p style="text-align: center;">Work with me on <a href="https://www.upwork.com/freelancers/drabic" target="_blank"><span style="color: green;">UpWork</span></a>.</p>
   </div>
   <div align="center" style="display: inline-block;padding-left:10px;">
-    <img src="https://app.userfeel.com/tester/536780/image?.png" style="height:100px">
+    <a href="https://app.userfeel.com/t/2f69a13c" target="_blank">
+      <img src="https://app.userfeel.com/tester/536780/image?.png" style="height:100px"></a>
     <p style="text-align: center;">Work with me on <a href="https://app.userfeel.com/t/2f69a13c" target="_blank"><span style="color: red;">UserFeel</a>.</p>
   </div>
 </div>
