@@ -280,7 +280,7 @@ cohesive and effective.
     </a>
   <br>
   <p>NFT Landing Page</p>
-  <p>Start of my development career, and my "baby" project. Not so actively working on it since 2021. Created everything you see from visuals to NFTs. </p>
+  <p>Start of my development career, and my "baby" project. Working on it since 2021. Created everything you see from visuals to NFTs. </p>
 <br>
 <a href="https://www.andrija.website/dmmarketingagency" target="_blank">
 <img src="https://i0.wp.com/andrija.website/dmmarketingagency/wp-content/uploads/2023/03/DM-Marketing-Main-Logo-2400x1800-Croped.png?resize=350%2C90&ssl=1" alt="Marketing Agency" style="height:100px;padding-bottom: 10px;"></a>
