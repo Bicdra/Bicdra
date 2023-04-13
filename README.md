@@ -283,27 +283,27 @@ cohesive and effective.
   <p>Start of my development career, and my "baby" project. Working on it since 2021. Created everything you see from visuals to NFTs. </p>
 <br>
 <a href="https://www.andrija.website/dmmarketingagency" target="_blank">
-<img src="https://andrija.website/wp-content/uploads/2023/04/Mdma.png" alt="Marketing Agency" style="height:500px;padding-bottom: 10px;"></a>
+<img src="https://andrija.website/wp-content/uploads/2023/04/Mdma.png" alt="Marketing Agency" style="height:450px;padding-bottom: 10px;"></a>
   <p>Marketing agency webpage</p>
   <p>Created web and branding for a marketing agency with contact forms and an automatic set-up meeting option.</p>
 <br>
 <a href="https://www.bitsarabia.com" target="_blank">
-<img src="https://andrija.website/wp-content/uploads/2023/04/Bits.png" alt="BitsArabia Solutions" style="height:500px;padding-bottom: 10px;"></a>
+<img src="https://andrija.website/wp-content/uploads/2023/04/Bits.png" alt="BitsArabia Solutions" style="height:450px;padding-bottom: 10px;"></a>
   <p>IT solutions company</p>
   <p>Created new styles, implemented changes, fixed bugs, added forms, and much more. Actively working on monthly bases.</p>
 <br>
 <a href="https://www.bitsarabia.com/our-solutions/onetouch" target="_blank">
-<img src="https://andrija.website/wp-content/uploads/2023/04/OneTouch.png" alt="One touch Solutions" style="height:500px;padding-bottom: 10px;"></a>
+<img src="https://andrija.website/wp-content/uploads/2023/04/OneTouch.png" alt="One touch Solutions" style="height:450px;padding-bottom: 10px;"></a>
   <p>Solution from BitsArabia</p>
   <p>Implemented ideas, created designs, created images, added buttons, contact forms, and more. Also worked on two language implementations on the website.</p>
 <br>
 <a href="https://www.sectware.com" target="_blank">
-<img src="https://andrija.website/wp-content/uploads/2023/04/Sectware.png" alt="One touch Solutions" style="height:500px;padding-bottom: 10px;"></a>
+<img src="https://andrija.website/wp-content/uploads/2023/04/Sectware.png" alt="One touch Solutions" style="height:450px;padding-bottom: 10px;"></a>
   <p>Cybersecurity company</p>
   <p>Co-created and worked on the project with another developer, coded, implemented, and connected front-end and back-end elements, designed styles, etc.</p>
 <br>
 <a href="https://andrija.website" target="_blank">
-<img src="https://andrija.website/wp-content/uploads/2023/04/Portfolio.png" alt="Andrija Drabic" style="height:500;padding-bottom: 10px;"></a>
+<img src="https://andrija.website/wp-content/uploads/2023/04/Portfolio.png" alt="Andrija Drabic" style="height:450;padding-bottom: 10px;"></a>
   <p>Personal portfolio</p>
   <p>A personal portfolio that showcases something about my life. The functionality of scheduling meetings and contacting me.</p>
 <br>
