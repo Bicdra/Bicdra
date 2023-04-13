@@ -321,7 +321,6 @@ cohesive and effective.
     <p style="text-align: center;">Work with me on <a href="https://app.userfeel.com/t/2f69a13c" target="_blank"><span style="color: red;">UserFeel</a>.</p>
   </div>
 </div>
-<br>
 <hr style="border:none; height:1px; background-color:purple; width:100%;">
 <h1 align="center">Thanks for stopping by, and remember "we are all little mad here". </h1>
 
